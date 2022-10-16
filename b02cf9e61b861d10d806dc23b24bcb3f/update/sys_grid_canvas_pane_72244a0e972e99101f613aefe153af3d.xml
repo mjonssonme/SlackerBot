@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA SlackerBot Admin Cen - New Tab">d593428a972e99101f613aefe153af4b</grid_canvas>
+        <height>4</height>
+        <portal_widget display_value="Created 2022-10-16 15:16:29">be244a0e972e99101f613aefe153af3a</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2022-10-16 13:16:29</sys_created_on>
+        <sys_id>72244a0e972e99101f613aefe153af3d</sys_id>
+        <sys_mod_count>27</sys_mod_count>
+        <sys_name>d593428a972e99101f613aefe153af4b</sys_name>
+        <sys_package display_value="SlackerBot" source="x_snc_slackerbot">b02cf9e61b861d10d806dc23b24bcb3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_72244a0e972e99101f613aefe153af3d</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2022-10-16 13:41:46</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

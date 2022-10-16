@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA SlackerBot Admin Cen - New Tab">d593428a972e99101f613aefe153af4b</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2022-10-16 15:28:54">38074242976e99101f613aefe153af27</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2022-10-16 13:28:54</sys_created_on>
+        <sys_id>78074242976e99101f613aefe153af28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d593428a972e99101f613aefe153af4b</sys_name>
+        <sys_package display_value="SlackerBot" source="x_snc_slackerbot">b02cf9e61b861d10d806dc23b24bcb3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_78074242976e99101f613aefe153af28</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2022-10-16 13:28:54</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</application>
+        <file_path/>
+        <instance_id>52d8d33ddbe12c9c0ae3ac44d4961902</instance_id>
+        <instance_name>stockdemo</instance_name>
+        <name>sys_grid_canvas_pane_78074242976e99101f613aefe153af28</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA SlackerBot Admin Cen - New Tab">d593428a972e99101f613aefe153af4b</grid_canvas><height>10</height><portal_widget display_value="Created 2022-10-16 15:28:54">38074242976e99101f613aefe153af27</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>mattias.johnsson</sys_created_by><sys_created_on>2022-10-16 13:28:54</sys_created_on><sys_id>78074242976e99101f613aefe153af28</sys_id><sys_mod_count>0</sys_mod_count><sys_name>d593428a972e99101f613aefe153af4b</sys_name><sys_package display_value="SlackerBot" source="x_snc_slackerbot">b02cf9e61b861d10d806dc23b24bcb3f</sys_package><sys_policy/><sys_scope display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</sys_scope><sys_update_name>sys_grid_canvas_pane_78074242976e99101f613aefe153af28</sys_update_name><sys_updated_by>mattias.johnsson</sys_updated_by><sys_updated_on>2022-10-16 13:28:54</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>1428926309</payload_hash>
+        <record_name>d593428a972e99101f613aefe153af4b</record_name>
+        <reverted_from/>
+        <source>5aa49fe997da1550c268348c1253af9a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2022-10-16 13:28:54</sys_created_on>
+        <sys_id>34074242976e99101f613aefe153af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183e0fbb18b0000001</sys_recorded_at>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2022-10-16 13:28:54</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>3c074242c26e9910603c32bd681c8429</update_guid>
+        <update_guid_history>3c074242c26e9910603c32bd681c8429:1428926309</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2022-10-16 13:29:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>17b1af173e4a40dc8c20730418d4f6f1</sys_id>
+        <sys_metadata>78074242976e99101f613aefe153af28</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d593428a972e99101f613aefe153af4b</sys_name>
+        <sys_package display_value="SlackerBot" source="x_snc_slackerbot">b02cf9e61b861d10d806dc23b24bcb3f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</sys_scope>
+        <sys_scope_delete display_value="">037003e1313b46e4831058384767d651</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_78074242976e99101f613aefe153af28</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_78074242976e99101f613aefe153af28">34074242976e99101f613aefe153af2a</sys_update_version>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2022-10-16 13:29:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

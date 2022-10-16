@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="SlackerBot Admin Center">52838eca972e99101f613aefe153af16</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2022-10-16 13:13:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>19938eca972e99101f613aefe153afe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>52838eca972e99101f613aefe153af16</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SlackerBot" source="x_snc_slackerbot">b02cf9e61b861d10d806dc23b24bcb3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_19938eca972e99101f613aefe153afe7</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2022-10-16 13:13:55</sys_updated_on>
+        <tab display_value="SlackerBot Admin Cen - New Tab">99938eca972e99101f613aefe153afe4</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA SlackerBot Admin Cen - New Tab">d593428a972e99101f613aefe153af4b</canvas_page>
+        <name>SlackerBot Admin Cen - New Tab</name>
+        <page display_value="PA SlackerBot Admin Cen - New Tab">5d93428a972e99101f613aefe153af49</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2022-10-16 13:13:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>99938eca972e99101f613aefe153afe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SlackerBot Admin Cen - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SlackerBot" source="x_snc_slackerbot">b02cf9e61b861d10d806dc23b24bcb3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</sys_scope>
+        <sys_update_name>pa_tabs_99938eca972e99101f613aefe153afe4</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2022-10-16 13:13:55</sys_updated_on>
+    </pa_tabs>
+</record_update>

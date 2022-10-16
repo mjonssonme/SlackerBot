@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_iframe">
+    <content_block_iframe action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <frame_name>System Propeties</frame_name>
+        <height>600</height>
+        <logged_on>false</logged_on>
+        <name>System Properties</name>
+        <sizing>fixed</sizing>
+        <sys_class_name>content_block_iframe</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2022-10-16 13:30:31</sys_created_on>
+        <sys_id>3b470e42976e99101f613aefe153af58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>System Properties</sys_name>
+        <sys_package display_value="SlackerBot" source="x_snc_slackerbot">b02cf9e61b861d10d806dc23b24bcb3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</sys_scope>
+        <sys_update_name>content_block_iframe_3b470e42976e99101f613aefe153af58</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2022-10-16 13:30:31</sys_updated_on>
+        <url>https://stockdemo.service-now.com/now/nav/ui/classic/params/target/system_properties_ui.do%3Fsysparm_category%3DSlackerBot%20Properties%26sysparm_title%3DSlackerBot%20Properties</url>
+        <width>400</width>
+    </content_block_iframe>
+</record_update>
